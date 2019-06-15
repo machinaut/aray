@@ -1,2 +1,2 @@
 # aray
-Public python package
+Public personal python package
